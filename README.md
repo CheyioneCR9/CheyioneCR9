@@ -12,8 +12,8 @@
   <li>poetry</li>
   <li>Sports</li>
   </ol>
-- 🌱 I’m currently learning and condtioning the various Languages of programing 
-- 💞 I’m looking to collaborate on
+- 🎒🏫 I’m currently learning and condtioning the various Languages of programing 
+- 🫱🏾‍🫲🏾 I’m looking to collaborate on
 - developing strong project management practices
 - teamwide situational awareness
 - create highly effective team communication
