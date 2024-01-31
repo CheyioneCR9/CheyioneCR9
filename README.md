@@ -3,10 +3,10 @@
 - 👋 Hi, I’m @CheyioneCR9 I am a member of **CodeCrew** 
 - 👀 I’m interested in
   1.music
-  1.automoibles
-  1.videogames
-  1.yoga
-  1.
+  2.automoibles
+  3.videogames
+  4.yoga
+  5.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
