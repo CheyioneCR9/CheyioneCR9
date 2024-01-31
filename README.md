@@ -3,7 +3,7 @@
 
 # Welcome to my Github
 
-- 👋 Hi, I’m @CheyioneCR9 I am a member of **CodeCrew** 
+- 👋 Hi, I’m Chey 😎I am a member of **CodeCrew** 
 -  I’m interested in
   <ol>
   <li>Automobies</li>
