@@ -1,7 +1,12 @@
 # Welcome to my Github
 
-- 👋 Hi, I’m @CheyioneCR9
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @CheyioneCR9 I am a member of **CodeCrew** 
+- 👀 I’m interested in
+  1.music
+  1.automoibles
+  1.videogames
+  1.yoga
+  1.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
