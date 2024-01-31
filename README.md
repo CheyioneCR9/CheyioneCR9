@@ -21,7 +21,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/CheyioneCR9?style=social)](https://www.github.com/CheyioneCR9)
 
-[![Linkedin Badge](https://img.shields.io/badge/-CodeCrew-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheyione-w-b674b7134//)](https://www.linkedin.com/in/Cheyione_Walton/)
+[![Linkedin Badge](https://img.shields.io/badge/-CodeCrew-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheyione-w-b674b7134//)](https://www.linkedin.com/in/cheyione-w-b674b7134/)
 - ⚡ 
 
 <!---
