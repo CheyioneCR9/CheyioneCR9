@@ -17,7 +17,8 @@
 - developing strong project management practices
 - teamwide situational awareness
 - create highly effective team communication
--#**💼SOCIALS**
+
+##💼SOCIALS
 
 [![GitHub followers](https://img.shields.io/github/followers/CheyioneCR9?style=social)](https://www.github.com/CheyioneCR9)
 
