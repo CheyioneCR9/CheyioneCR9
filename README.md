@@ -24,7 +24,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-CodeCrew-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheyione-w-b674b7134//)](https://www.linkedin.com/in/cheyione-w-b674b7134/)
 - ⚡ ⚡⚡⚡⚡
-## Intrests
+# Intrests
+
+*My array of interests converges into a harmonious blend of passion and tranquility. The exhilaration of sports, the rhythmic allure of music, and the comforting embrace of food collectively contribute to my profound sense of well-being. In essence, I cultivate a Zen-like equilibrium through these diverse avenues, finding joy and solace in the vibrant tapestry of my multifaceted interests.*
 ![intrest](https://qph.cf2.quoracdn.net/main-qimg-1c06173dc6c7cb22ab694417ea3cbae0-lq)
 <!---
 CheyioneCR9/CheyioneCR9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
