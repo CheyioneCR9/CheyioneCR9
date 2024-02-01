@@ -24,7 +24,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-CodeCrew-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheyione-w-b674b7134//)](https://www.linkedin.com/in/cheyione-w-b674b7134/)
 - ⚡ ⚡⚡⚡⚡
-
+## Intrests
+![intrest](https://qph.cf2.quoracdn.net/main-qimg-1c06173dc6c7cb22ab694417ea3cbae0-lq)
 <!---
 CheyioneCR9/CheyioneCR9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
