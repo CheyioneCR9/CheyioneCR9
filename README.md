@@ -18,7 +18,7 @@
 - teamwide situational awareness
 - create highly effective team communication
 
-# 💼Socials                        MUSIC/ESPN LINKS 
+# 💼Socials  /intrest/ MUSIC/ESPN LINKS 
 
 [![GitHub followers](https://img.shields.io/github/followers/CheyioneCR9?style=social)](https://www.github.com/CheyioneCR9)
 
