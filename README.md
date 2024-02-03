@@ -29,9 +29,9 @@
 *My array of interests converges into a harmonious blend of passion and tranquility. The exhilaration of sports, the rhythmic allure of music, and the comforting embrace of food collectively contribute to my profound sense of well-being. In essence, I cultivate a Zen-like equilibrium through these diverse avenues, finding joy and solace in the vibrant tapestry of my multifaceted interests.*
 
 ![intrest](https://qph.cf2.quoracdn.net/main-qimg-1c06173dc6c7cb22ab694417ea3cbae0-lq)
-![intrest](https://d23.com/app/uploads/2023/10/pandora.png)
+<a href="https://youtu.be/ljhIO3W1gcg?si=43pBFtBnxQi41baH">![intrest](https://d23.com/app/uploads/2023/10/pandora.png)</a>
 
-<a href="https://youtu.be/ljhIO3W1gcg?si=43pBFtBnxQi41baH"></a>
+
 <!---
 CheyioneCR9/CheyioneCR9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
