@@ -1,5 +1,6 @@
 
-![welcome](https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_1707,q_auto:good,w_2560/cms/uploads/jbmmvhpgnlrxfznr4bnt)
+![welcome](![image](https://github.com/CheyioneCR9/CheyioneCR9/assets/158075216/7085a82f-9c7e-4616-b69d-1de0432a6ca2)
+)
 
 # Welcome to my Github
 
