@@ -8,7 +8,7 @@
   <ol>
   <li>Automobies</li>
   <li>Music</li>
-  <li>Travel</li>                    <h1>music/espn changed weekly</h1>
+  <li>Travel</li>                    *music/espn changed weekly*
   <li>poetry</li>
   <li>Sports</li>
   </ol>
