@@ -8,7 +8,7 @@
   <ol>
   <li>Automobies</li>
   <li>Music</li>
-  <li>Travel</li>                    *music/espn changed weekly*
+  <li>Travel</li>                    
   <li>poetry</li>
   <li>Sports</li>
   </ol>
@@ -18,7 +18,7 @@
 - teamwide situational awareness
 - create highly effective team communication
 
-# 💼Socials
+# 💼Socials                        MUSIC/ESPN LINKS 
 
 [![GitHub followers](https://img.shields.io/github/followers/CheyioneCR9?style=social)](https://www.github.com/CheyioneCR9)
 
